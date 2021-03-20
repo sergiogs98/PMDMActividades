@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cuenta Bancaria</string>
+    <string name="hint">Introduce número...</string>
+</resources>
